@@ -24,6 +24,6 @@ footer.textContent ='testing'
 // Add the about container to the document
 body.textContent = ''
 body.id = 'about'
-body.style.backgroundImage = "url('/Users/user/Odin/Projects/restaurantPage/src/images/jungle-g5ddf0e18e_1920.jpg')"
+body.style.backgroundImage = "url('/images/jungle-g5ddf0e18e_1920.jpg')"
 body.appendChild(aboutContainer);
 }
