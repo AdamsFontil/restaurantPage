@@ -78,5 +78,5 @@ bodyH2.textContent = "Hello, welcome to the Jungle Buffet. The Restaurant that's
 body.textContent = ''
 // body.id = 'about'
 body.appendChild(bodyH2);
-body.style.backgroundImage = "url('/images/forest-g02f1a7280_1920.jpg')"
+body.style.backgroundImage = "url('/Users/user/Odin/Projects/restaurantPage/src/images/forest-g02f1a7280_1920.jpg')"
 }

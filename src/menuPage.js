@@ -32,7 +32,7 @@ menuContainer.appendChild(menuList);
 
 // Add the menu container to the document
 body.textContent = ''
-body.style.backgroundImage = "url('/Users/user/Odin/Projects/restaurantPage/src/images/rainforest-3119822_1920.jpg')"
+body.style.backgroundImage = "url('/Users/user/Odin/Projects/restaurantPage//src/images/rainforest-3119822_1920.jpg')"
 body.appendChild(menuContainer);
 
 }

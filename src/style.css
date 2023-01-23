@@ -53,7 +53,7 @@ body {
   }
   .body {
     background-color: brown;
-    background-image: url('/images/forest-g02f1a7280_1920.jpg');
+    /* background-image: url('./images/jungle-g5ddf0e18e_1920.jpg'); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
